@@ -29,5 +29,6 @@ Startup Showcase (15 mins)
 - [Arkade](https://x.com/arkade_os/status/1980607782945485056) Public Beta is now live.
 - [Mostro](https://x.com/MostroP2P/status/1970525664760791442) rolls out its P2P Lightning + Nostr trading platform in alpha on Zapstore and a Google Play release on the way.
 - [Predyx](https://stacker.news/items/1227223) adds AI-powered assistance to its Bitcoin-based prediction market, offering chatbot insights and automated market analysis.
+- [River Supercharged Buys](https://support.river.com/kb/guide/en/what-are-supercharged-recurring-buys-tK9DbbCrPU/Steps/4771789) automatically buy more bitcoin at the time of your recurring order during price dips
 - [Peach Bitcoin](https://nostr.at/nevent1qqsg4yd449vj7sue4sjy2yx0r5jdyhflwqggcum0l35hnks2kes7vjspz4mhxue69uhhyetvv9ujuerpd46hxtnfduhsyg9yw3thytsshgazw8a7wpqztx3ufk3v75al68sesyuzznfr2pj0cgpsgqqqqqqsv0saew) releases a new version with two-sided trading letting users buy and sell BTC.
 - [Zaprite](https://blog.zaprite.com/introducing-zaprite-event-tickets/) introduces Event Tickets, enabling conference organizers to accept bitcoin and fiat in a single checkout.
