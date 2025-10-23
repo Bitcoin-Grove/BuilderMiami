@@ -17,6 +17,7 @@ Discussions + Q&A Topics (40 mins)
 ----
 - Flashback: [El Salvador Bitcoin Legal Tender](https://x.com/nayibbukele/status/1402507224916836352)
 - [Who will run the mints?](https://x.com/BitcoinErrorLog/status/1979588839598694674)
+- [Hopes and Dreams for Bitcoin Design](https://spiralbtc.substack.com/p/our-hopes-and-dreams-for-bitcoin)
 
 
 Startup Showcase (15 mins)     
