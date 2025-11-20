@@ -17,10 +17,11 @@ Discussions + Q&A Topics (40 mins)
 ----
 - Cash App [launches bitcoin for everyday payments](https://x.com/milessuter/status/1988729913260831023)
 - Spiral creates the [Bitcoin Merchant Community](https://www.bitcoinmerchantcommunity.org/)
+- Bitcoin for America Act, [modeling the impacts of the U.S. government accepting bitcoin for tax payments](https://x.com/btcpolicyorg/status/1991537200186724797)
 
 Startup Showcase (15 mins)     
 ----
- - TBD
+ - Alex Lewin from [Fedi](https://www.fedi.xyz/)
 
  News
 ----
